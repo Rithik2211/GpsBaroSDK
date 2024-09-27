@@ -19,5 +19,5 @@ This SDK provides a SwiftUI view for displaying GPS and Barometer data in iOS ap
   s.source           = { :git => 'https://github.com/Rithik2211/SampleSDK.git', :tag => s.version.to_s }
   s.ios.deployment_target = '14.0'
   s.swift_version = '5.0'
-  s.source_files = 'GPSBaroSDK/**/*.swift'
+  s.source_files = 'SampleSDK/**/*.swift'
 end
