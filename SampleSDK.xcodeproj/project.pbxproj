@@ -11,6 +11,7 @@
 		A6D462D42CA6649600FB4A31 /* SampleSDK.h in Headers */ = {isa = PBXBuildFile; fileRef = A6D462D32CA6649600FB4A31 /* SampleSDK.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A6D462DB2CA66E6B00FB4A31 /* GPSAndBaroView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6D462DA2CA66E6B00FB4A31 /* GPSAndBaroView.swift */; };
 		A6D462DE2CA66ED200FB4A31 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = A6D462DD2CA66ED200FB4A31 /* Info.plist */; };
+		A6D462E02CA6793500FB4A31 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = A6D462DF2CA6793500FB4A31 /* LICENSE */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		A6D462D32CA6649600FB4A31 /* SampleSDK.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SampleSDK.h; sourceTree = "<group>"; };
 		A6D462DA2CA66E6B00FB4A31 /* GPSAndBaroView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GPSAndBaroView.swift; sourceTree = "<group>"; };
 		A6D462DD2CA66ED200FB4A31 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A6D462DF2CA6793500FB4A31 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,6 +48,7 @@
 		A6D462C62CA6649600FB4A31 = {
 			isa = PBXGroup;
 			children = (
+				A6D462DF2CA6793500FB4A31 /* LICENSE */,
 				A6D462D22CA6649600FB4A31 /* SampleSDK */,
 				A6D462D12CA6649600FB4A31 /* Products */,
 				EF47A697E172E2BB8D278D54 /* Pods */,
@@ -151,6 +154,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A6D462E02CA6793500FB4A31 /* LICENSE in Resources */,
 				A6D462DE2CA66ED200FB4A31 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
