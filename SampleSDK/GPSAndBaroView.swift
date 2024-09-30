@@ -330,7 +330,9 @@ class LocationViewModel: NSObject, ObservableObject, CLLocationManagerDelegate {
 }
 
 
+#Preview {
+    GPSAndBaroView()
+}
 
-// AIzaSyC8_z_iuTErNzRQJ-wRsMoDxAg4nPhejD0
 
 
