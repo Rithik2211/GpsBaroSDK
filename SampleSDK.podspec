@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'GpsBaroSDK'
-  s.version          = '0.3.0'
+  s.version          = '0.3.1'
   s.summary          = 'An iOS SDK for GPS and Barometer data visualization.'
   s.description      = <<-DESC
 This SDK provides a SwiftUI view for displaying GPS and Barometer data in iOS applications.
