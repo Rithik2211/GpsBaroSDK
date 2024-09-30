@@ -10,8 +10,7 @@
 		480CEABE5BE2387CAE98CA33 /* Pods_SampleSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0B4F220F9713703C14A7E1F6 /* Pods_SampleSDK.framework */; };
 		A6D462D42CA6649600FB4A31 /* SampleSDK.h in Headers */ = {isa = PBXBuildFile; fileRef = A6D462D32CA6649600FB4A31 /* SampleSDK.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A6D462DB2CA66E6B00FB4A31 /* GPSAndBaroView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6D462DA2CA66E6B00FB4A31 /* GPSAndBaroView.swift */; };
-		A6D462E02CA6793500FB4A31 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = A6D462DF2CA6793500FB4A31 /* LICENSE */; };
-		A6D462E22CA6D85F00FB4A31 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = A6D462E12CA6D85F00FB4A31 /* Info.plist */; };
+		A6D462E42CAADF6900FB4A31 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = A6D462DF2CA6793500FB4A31 /* LICENSE */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -49,7 +48,6 @@
 			isa = PBXGroup;
 			children = (
 				A6D462DF2CA6793500FB4A31 /* LICENSE */,
-				A6D462E12CA6D85F00FB4A31 /* Info.plist */,
 				A6D462D22CA6649600FB4A31 /* SampleSDK */,
 				A6D462D12CA6649600FB4A31 /* Products */,
 				EF47A697E172E2BB8D278D54 /* Pods */,
@@ -69,6 +67,7 @@
 			isa = PBXGroup;
 			children = (
 				A6D462D32CA6649600FB4A31 /* SampleSDK.h */,
+				A6D462E12CA6D85F00FB4A31 /* Info.plist */,
 				A6D462DA2CA66E6B00FB4A31 /* GPSAndBaroView.swift */,
 			);
 			path = SampleSDK;
@@ -105,7 +104,7 @@
 				A6D462CB2CA6649600FB4A31 /* Headers */,
 				A6D462CC2CA6649600FB4A31 /* Sources */,
 				A6D462CD2CA6649600FB4A31 /* Frameworks */,
-				A6D462CE2CA6649600FB4A31 /* Resources */,
+				A6D462E32CAADF5E00FB4A31 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -150,12 +149,11 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		A6D462CE2CA6649600FB4A31 /* Resources */ = {
+		A6D462E32CAADF5E00FB4A31 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A6D462E22CA6D85F00FB4A31 /* Info.plist in Resources */,
-				A6D462E02CA6793500FB4A31 /* LICENSE in Resources */,
+				A6D462E42CAADF6900FB4A31 /* LICENSE in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
