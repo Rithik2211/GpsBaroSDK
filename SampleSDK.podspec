@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'SampleSDK1'
+  s.name             = 'SampleSDK'
   s.version          = '0.3.0'
   s.summary          = 'An iOS SDK for GPS and Barometer data visualization.'
   s.description      = <<-DESC
